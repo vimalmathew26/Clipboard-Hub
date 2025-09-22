@@ -1,0 +1,13 @@
+/build/
+/out/
+/.vscode/
+/.idea/
+*.exe
+*.obj
+*.pdb
+*.dll
+*.db
+*.log
+*.cache
+*.tmp
+compile_commands.json
